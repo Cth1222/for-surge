@@ -2,6 +2,9 @@
 USER-AGENT,All4*,english
 DOMAIN-SUFFIX,c4assets.com,english
 DOMAIN-SUFFIX,channel4.com,english
+DOMAIN-SUFFIX,redbeemedia.com,english
+DOMAIN-SUFFIX,aws.redbeemedia.com,english
+DOMAIN-SUFFIX,channel4.sc.omtrdc.net,english
 # > BBC iPlayer,english
 USER-AGENT,BBCiPlayer*,english
 DOMAIN-SUFFIX,bbc.co.uk,english
