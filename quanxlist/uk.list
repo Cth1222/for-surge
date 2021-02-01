@@ -1,27 +1,27 @@
-# > All4,english
-USER-AGENT,All4*,english
-DOMAIN-SUFFIX,c4assets.com,english
-DOMAIN-SUFFIX,channel4.com,english
-DOMAIN-SUFFIX,redbeemedia.com,english
-DOMAIN-SUFFIX,aws.redbeemedia.com,english
-DOMAIN-SUFFIX,channel4.sc.omtrdc.net,english
-# > BBC iPlayer,english
-USER-AGENT,BBCiPlayer*,english
-DOMAIN-SUFFIX,bbc.co.uk,english
-DOMAIN-SUFFIX,bbci.co.uk,english
-DOMAIN-KEYWORD,bbcfmt,english
-DOMAIN-KEYWORD,uk-live,english
-# > ITV,english
-USER-AGENT,ITV_Player*,english
-DOMAIN-SUFFIX,itv.com,english
-DOMAIN-SUFFIX,itvstatic.com,english
-DOMAIN,itvpnpmobile-a.akamaihd.net,english
-# > My5,english
-USER-AGENT,My5*,english
-DOMAIN-SUFFIX,channel5.com,english
-DOMAIN-SUFFIX,my5.tv,english
-DOMAIN,d349g9zuie06uo.cloudfront.net,english
-# > Sky GO,english
-USER-AGENT,skygo*,english
-DOMAIN-SUFFIX,sky.com,english
-DOMAIN-SUFFIX,skygo.co.nz,english
+# > All4,UK
+USER-AGENT,All4*,UK
+DOMAIN-SUFFIX,c4assets.com,UK
+DOMAIN-SUFFIX,channel4.com,UK
+DOMAIN-SUFFIX,redbeemedia.com,UK
+DOMAIN-SUFFIX,aws.redbeemedia.com,UK
+DOMAIN-SUFFIX,channel4.sc.omtrdc.net,UK
+# > BBC iPlayer,UK
+USER-AGENT,BBCiPlayer*,UK
+DOMAIN-SUFFIX,bbc.co.uk,UK
+DOMAIN-SUFFIX,bbci.co.uk,UK
+DOMAIN-KEYWORD,bbcfmt,UK
+DOMAIN-KEYWORD,uk-live,UK
+# > ITV,UK
+USER-AGENT,ITV_Player*,UK
+DOMAIN-SUFFIX,itv.com,UK
+DOMAIN-SUFFIX,itvstatic.com,UK
+DOMAIN,itvpnpmobile-a.akamaihd.net,UK
+# > My5,UK
+USER-AGENT,My5*,UK
+DOMAIN-SUFFIX,channel5.com,UK
+DOMAIN-SUFFIX,my5.tv,UK
+DOMAIN,d349g9zuie06uo.cloudfront.net,UK
+# > Sky GO,UK
+USER-AGENT,skygo*,UK
+DOMAIN-SUFFIX,sky.com,UK
+DOMAIN-SUFFIX,skygo.co.nz,UK
